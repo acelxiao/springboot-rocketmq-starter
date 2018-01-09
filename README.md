@@ -8,9 +8,9 @@
 
 ```
 <dependency>
-    <groupId>com.maihaoche</groupId>
+    <groupId>com.efun</groupId>
     <artifactId>spring-boot-starter-rocketmq</artifactId>
-    <version>0.0.5</version>
+    <version>1.0.0-SNAPSHOT</version>
 </dependency>
 ```
 
