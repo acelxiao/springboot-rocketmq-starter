@@ -1,4 +1,4 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.maihaoche.starter.mq.config.MQBaseAutoConfiguration,\
-com.maihaoche.starter.mq.config.MQConsumerAutoConfiguration,\
-com.maihaoche.starter.mq.config.MQProducerAutoConfiguration
+com.efun.starter.rocketmq.config.MQBaseAutoConfiguration,\
+com.efun.starter.rocketmq.config.MQConsumerAutoConfiguration,\
+com.efun.starter.rocketmq.config.MQProducerAutoConfiguration
